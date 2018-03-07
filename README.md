@@ -1,6 +1,6 @@
 # Emojification
 
-App, running with Ruby on Rails API (using [emoji_translate](https://rubygems.org/gems/emoji_translate) gem) and React frontend.
+App, running with Ruby on Rails API (using [emoji_translate](https://rubygems.org/gems/emoji_translate) gem). Uses [react-emojification](https://github.com/vpukhanov/react-emojification) as frontend.
 
 ## API endpoints
 
